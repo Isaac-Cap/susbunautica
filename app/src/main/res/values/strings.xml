@@ -1,0 +1,88 @@
+<resources>
+        <string name="apoo">Susbunutica</string>
+        <string name="history_subanutica">History-Subanutica</string>
+        <string name="auroraT">No game Aurora e uma nave aonde veio de um planeta desconhecido.
+
+        Ela é uma nave nomeada de Aurora, que teve sua civilização, de uma corporação chamada de AllTerra, quando chegou no planeta 4546-B, estava com uma carga marinha mas foram fragmentadas pelo impacto que aconteceu quando chegou no planeta.
+
+        Em volta da colisão de Aurora, ronda um dos peixes/leviatã mais rápidos que você poderá encontrar, ele normalmente fica na parte de traz, ou seja, nas partes com mais profundidade.
+
+        Em um certo tempo de game, a assistente do PDA começa a fazer uma contagem regressiva onde o reator nuclear da Aurora irá explodir, libertando assim mais fragmentos para que o jogador possa avançar no jogo, sendo assim, quando a Aurora explode, é liberado uma radiação pelo mapa inteiro onde o jogador precisará de um traje de mergulho resistente a radiação.
+
+        Para que pare de soltar radiação o jogador terá que pegar uma ferramenta de reparo e ir até o reator da nave e consertar pequenos furos no reator. Após o reator explodir, você poderá entrar na nave, dentro dela poderá concertá-la e pegar outras coisas, sendo que um dos itens é o traje reforçado, entre outras coisas como um banner para sua base, dentro dela, tenha uma parte da história do jogo.</string>
+        <string name="auroraT2">
+    Em um certo tempo de game, a assistente do PDA começa a fazer uma contagem regressiva onde o reator nuclear da Aurora irá explodir libertando assim mais fragmentos para que o jogador possa avançar no jogo, sendo assim quando a Aurora explode, é liberado radiação pelo mapa inteiro onde o jogador precisará de um traje de mergulho resistente a radiação.
+
+    Para parar de soltar radiação, o jogador terá que pegar uma ferramenta de reparo e ir até o reator da neve e consertar pequenos furos no reator. Após o reator explodir, você poderá entrar na nave, dentro dela poderá concertá-la e pegar outras coisas um dos traje reforçado, entre outras coisas como um banner para sua base, além de dentro dela tenha uma parte da história do jogo.</string>
+        <string name="personagem">Personagem</string>
+        <string name="mundo1">Mundo</string>
+        <string name="imperatriz">imperatriz</string>
+        <string name="bacteria">A bactéria, ela foi descoberta pelos precursores, quando chegaram no planeta, a bactéria já estava lá, sendo assim, eles resolveram tentar achar a cura, pois não podiam levar a bactéria com ele para outras plantas, até eles acharem a imperatriz e prenderem ela para tentar conseguir a cura, mas acabaram morrendo por tentativas.</string>
+        <string name="bacteria2">Essa bactéria, os primeiros sintomas são algumas bolas verdes em todo seu corpo, onde no futuro vão matar a presa. E o nome da bactéria é Kharaa. Ele é morta com uma enzima da imperatriz mais nova.</string>
+
+        <string name="scanner">Os Escaneador é conquistado desde o início do jogo e usamos ele até o “final”. O Escaneador usa para
+descobrir e pesquisar fragmentos ou por bichos, quando fazem isso, os dados coletados são guardados no
+ nosso PDA. Pesquisar fragmentos é super necessário para avançar no jogo, teremos ter que fazer muitas
+coisas e nem tudo é liberado para fazer desde o início do jogo.
+(1 bateria, 1 titânio) </string>
+
+        <string name="airblader">Um item nada recomendado para se gastar recursos é o Air Bladder ele é usado para subir para superfície
+ mais rápido, quando você o-ativa, ele gastará um pouco de ar do seu cilindro e você flutuará,
+ ele não é recomendado pois la no futuro você pegará uma espécie de minissubmarino chamado de seaglide.
+(1 silicone 1 bladder-fish,) </string>
+        <string name="construtor">Esta ferramenta é usada para construir bases, de baixo ou na superfície, para fazer base com ele você
+gastará bateria e dependente da construção você gastará certo tipo de material.
+(de 1 chip de computador, 1 bateria,) </string>
+        <string name="flare">Um item de iluminação onde podemos pegá-lo em nossas mãos e tacá-lo para iluminar os terrenos, quando
+pegamos ele precisa ascender ele para que ele assim ilumine.
+(1 enxofre de caverna)</string>
+        <string name="lanterna">Outro item nada recomendado, ela gastará bateria, pois ele irá ser substituído pelo
+seaglide mas no futuro que por si já tem lanterna e outras coisas.
+(1 Bateria, Silicone).
+</string>
+        <string name="faca">Um item recomendado ele cortará itens, peixes entre outros, mas no futuro terá uma atualização para ele
+que a faca irá virar flamejante quando cortamos um peixe pequeno, ele automaticamente irá virar peixe
+cozido, além da faca ser necessária para pegar alguns tipos de matérias onde só poderá ser pego com a faca.
+ (1 Titânio, 1 Silicone)
+</string>
+        <string name="reparo">A Ferramenta de reparo é usada para consertar coisas quebradas, no life-pot temos uma fonte de energia onde
+podemos consertá-la, e na Aurora temos o reator que pode ser concertado usando essa ferramenta.
+(1 silicone. 1 titânio, 1 Enxofre de caverna) </string>
+
+        <string name="imperatrizT1">A imperatriz é um ser muito importante para curar uma doença que
+ gera neste mundo, ela solta um enzima que entrando em contato com a
+bactéria ela irá ser curada e a bactéria será morta, porém a única
+imperatriz que está viva até hoje ela está presa em um cativeiro na
+caverna citada. </string>
+
+        <string name="imperatrizT2">Quando ela fala com o jogador ela manda uma missão para ele pegar um
+tipo de líquido para que ela consiga chocar os seus ovos, sendo assim
+ quando chocado possam libertar o mundo desta bactéria. </string>
+
+        <string name="mundo">O mundo onde jogamos se chama 4546-B, um planeta repleto de
+água onde o jogador precisará pegar seus recursos para sobreviver.
+ Este planeta e cheio de recursos e nós n somos os únicos seres vivos
+ a abitar este plane, ou primeiro ser pensativo a pisar neste planeta.
+
+
+
+No planeta temos vários tipos de plantas e peixes, biomas repletos
+de coisas onde não temos no nosso planeta normal, com isso vamos ter
+que pesquisar cada coisa para conseguir informações para que possamos
+sobreviver.
+
+Neste planeta, temos várias cavernas, e temos uma em específico que ela
+chega os 1500 metros de profundidade, e é a caverna mais importante encontrada.</string>
+
+        <string name="personage">O personagem onde estamos abordando, não temos nenhuma informação
+    sobre o nome dele, porém temos algumas imagens dele:
+</string>
+        <string name="personage2">Ele é um personagem que veio de uma nave chamada de aurora, onde ela
+    é de uma corporação que o protagonista trabalha.
+</string>
+
+
+
+
+        <string name="app_name">susbunautica</string>
+</resources>

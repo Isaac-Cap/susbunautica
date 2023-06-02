@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Telactr"
+    android:background="@drawable/fundono"
+    >
+
+    <TextView
+        android:id="@+id/persot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/personagem"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.103"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.308"
+        />
+
+    <ImageButton
+        android:contentDescription="persotB"
+        android:id="@+id/perso"
+        android:layout_width="174dp"
+        android:layout_height="162dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.105"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.089"
+        app:srcCompat="@drawable/prinperso"
+        />
+
+
+    <ImageButton
+        android:contentDescription="auroro"
+        android:id="@+id/auroraB"
+        android:layout_width="174dp"
+        android:layout_height="162dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.873"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.089"
+        app:srcCompat="@drawable/auroraro"
+        />
+
+    <TextView
+        android:id="@+id/aurora"
+        android:layout_width="wrap_content"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:text="Aurora"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.794"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.308"/>
+
+
+    <TextView
+        android:id="@+id/mundotx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mundo1"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.645" />
+
+    <ImageButton
+        android:contentDescription="text"
+        android:id="@+id/mundoib"
+        android:layout_width="174dp"
+        android:layout_height="162dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.105"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499"
+        app:srcCompat="@drawable/vistword"
+        />
+
+
+    <TextView
+        android:id="@+id/imperatriztx"
+        android:layout_width="wrap_content"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:text="@string/imperatriz"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.184"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.953" />
+
+    <ImageButton
+        android:contentDescription="text"
+        android:id="@+id/imperatriz"
+        android:layout_width="174dp"
+        android:layout_height="162dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.105"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.873"
+        app:srcCompat="@drawable/imperatrizf"
+        />
+
+    <ImageButton
+        android:contentDescription="text"
+        android:id="@+id/ferramentasbuim"
+        android:layout_width="174dp"
+        android:layout_height="162dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.873"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.873"
+        app:srcCompat="@drawable/all"
+       />
+
+    <TextView
+        android:id="@+id/ferramentastex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ferramentas"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.879"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.953" />
+
+    <ImageButton
+        android:contentDescription="text"
+        android:id="@+id/bacteria"
+        android:layout_width="174dp"
+        android:layout_height="162dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.873"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499"
+        app:srcCompat="@drawable/krahhaabc"
+        />
+
+    <TextView
+        android:id="@+id/bacteriatx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kharaa"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.794"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.645" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

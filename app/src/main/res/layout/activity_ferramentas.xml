@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ferramentas"
+    android:background="#005EA3">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/TlPrB2"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:text="V"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.894"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.925"
+        android:backgroundTint="#00FFFFFF"
+        />
+    <ScrollView
+        android:id="@+id/scrollView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/scannerview"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/escan" />
+            <TextView
+                android:id="@+id/scanner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/scanner"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <ImageView
+                android:id="@+id/Air_BladerI"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/bledder" />
+            <TextView
+                android:id="@+id/Air_Blader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/airblader"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <ImageView
+                android:id="@+id/construI"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/habit" />
+            <TextView
+                android:id="@+id/constru"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/construtor"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <ImageView
+                android:id="@+id/flareI"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/flare" />
+            <TextView
+                android:id="@+id/flare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/flare"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <ImageView
+                android:id="@+id/lanternaI"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/lanterna" />
+            <TextView
+                android:id="@+id/lanterna"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lanterna"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <ImageView
+                android:id="@+id/facaI"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/facapng" />
+            <TextView
+                android:id="@+id/faca"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/faca"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <ImageView
+                android:id="@+id/reparoI"
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                app:srcCompat="@drawable/repi" />
+            <TextView
+                android:id="@+id/reparo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/reparo"
+                android:textColor="#FFFFFF"
+                android:textSize="40dp"
+                tools:layout_editor_absoluteX="154dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
